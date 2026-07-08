@@ -138,13 +138,7 @@ Loan-Portfolio-Borrower-Risk-Analytics/
 │   ├── Debt, Income & Credit Exposure.png
 │   └── Analysis.png
 │
-├── Documentation/
-│   ├── Data Cleaning.pdf
-│   ├── Dashboard Documentation.pdf
-│   └── DAX Measures.pdf
-│
-├── Presentation/
-│   └── Loan Dashboard Presentation.pptx
+
 │
 ├── README.md
 └── LICENSE
@@ -158,16 +152,17 @@ Loan-Portfolio-Borrower-Risk-Analytics/
 ![Home](Screenshots/Home.png)
 
 ### Loan Portfolio Overview
-![Loan Portfolio Overview](Screenshots/Loan%20Portfolio%20Overview.png)
+![Loan Portfolio Overview](Screenshots/Screenshot%2026-07-09%013111.png)
 
 ### Borrower Risk & Credit Profile
-![Borrower Risk & Credit Profile](Screenshots/Borrower%20Risk%20%26%20Credit%20Profile.png)
+![Borrower Risk & Credit Profile](Screenshots/Screenshot%2026-07-09%012815.png)
 
 ### Debt, Income & Credit Exposure
-![Debt, Income & Credit Exposure](Screenshots/Debt%2C%20Income%20%26%20Credit%20Exposure.png)
+![Debt, Income & Credit Exposure](Screenshots/Screenshot%2026-07-09%013039.png
+)
 
 ### Analysis
-![Analysis](Screenshots/Analysis.png)
+![Analysis](Screenshots/Screenshot%2026-07-09%013135.png)
 
 ---
 
