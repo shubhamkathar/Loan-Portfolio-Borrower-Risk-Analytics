@@ -149,20 +149,19 @@ Loan-Portfolio-Borrower-Risk-Analytics/
 ## 🖼️ Screenshots
 
 ### Home
-![Home](Screenshots/Home.png)
+![Home](Screenshots/home.png)
 
 ### Loan Portfolio Overview
-![Loan Portfolio Overview](Screenshots/Screenshot%2026-07-09%013111.png)
+![Loan Portfolio Overview](Screenshots/Screenshot%202026-07-09%20012815.png)
 
 ### Borrower Risk & Credit Profile
-![Borrower Risk & Credit Profile](Screenshots/Screenshot%2026-07-09%012815.png)
+![Borrower Risk & Credit Profile](Screenshots/Screenshot%202026-07-09%20013039.png)
 
 ### Debt, Income & Credit Exposure
-![Debt, Income & Credit Exposure](Screenshots/Screenshot%2026-07-09%013039.png
-)
+![Debt, Income & Credit Exposure](Screenshots/Screenshot%202026-07-09%20013111.png)
 
 ### Analysis
-![Analysis](Screenshots/Screenshot%2026-07-09%013135.png)
+![Analysis](Screenshots/Screenshot%202026-07-09%20013135.png)
 
 ---
 
