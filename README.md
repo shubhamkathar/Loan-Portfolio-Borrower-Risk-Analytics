@@ -3,7 +3,7 @@
 An interactive, story-driven **Power BI** dashboard built to analyze a bank's loan portfolio across four dimensions — portfolio composition, borrower credit quality, financial burden, and risk contribution. Every page is designed around a specific business question rather than a random collection of charts.
 
 ---
-![home](home.png)
+![Loan Portfolio Overview](Screenshots/home.png)
 
 ## 🎯 About the Dashboard
 
